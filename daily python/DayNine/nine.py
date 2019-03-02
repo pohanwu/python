@@ -1,0 +1,25 @@
+print(5+6)
+print(3-7)
+print(4*8)
+print(12/3)
+print(3/2)
+a=5
+print(a)
+a+=8
+print(a)
+name="John"
+print(name+"Doe")
+name+=" Doe"
+print(name)
+seeds=["sesame","sunflower"]
+seeds+=["pumpkin"]
+#print(seeds)
+#seeds+=5
+print(seeds)
+seeds+=[5]
+print(seeds)
+seeds+=[9,1,5,"poppy"]
+print(seeds)
+seeds=["sesame","sunflower","pumpkin"]
+seeds+="durian"
+print(seeds)
